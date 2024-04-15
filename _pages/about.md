@@ -13,8 +13,9 @@ redirect_from:
 
 Outside of my academic life, I am an aviation enthusiast and geek. I grew up in Harbin, a beautiful city in the northeast of China. 
 
-Please find my CV [here](../assets/Curriculum_Vitae.pdf).
-He is currently finding a PhD position suitable for me.
+Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
+
+**I am currently finding a PhD position suitable for me.**
 
 # 🎓Education
 
@@ -47,7 +48,7 @@ He is currently finding a PhD position suitable for me.
 
 …….
 
-Please click links to find my complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png).
+Please click links to find my **complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png)**.
 
 # 🔥 News
 
@@ -90,7 +91,7 @@ Please click links to find my complete [bachelor’s grades](../assets/Dinghan W
 
 - *2019 - 2021*, Scholarship from the School of Electronic Information (twice)
 
-  [Click here to view my competition certificate]()
+  **[Click here to view my competition certificate]()**
 
 # 🔧Skills
 
