@@ -9,11 +9,11 @@ redirect_from:
 
 # 👨‍🎓About	
 
-**Dinghan Wang** is a 2nd-year master student in Control Science and Engineering at Northwestern Polytechnical University. His research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Control systems. 
+**Dinghan Wang** is a 2nd-year master student in Control Science and Engineering at Northwestern Polytechnical University. My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Control systems. 
 
-Outside of his academic life, he is an aviation enthusiast and geek. He grew up in Harbin, a beautiful city in the northeast of China. 
+Outside of my academic life, I am an aviation enthusiast and geek. I grew up in Harbin, a beautiful city in the northeast of China. 
 
-Please find his CV [here](../assets/Curriculum_Vitae.pdf).
+Please find my CV [here](../assets/Curriculum_Vitae.pdf).
 He is currently finding a PhD position suitable for me.
 
 # 🎓Education
@@ -24,6 +24,30 @@ He is currently finding a PhD position suitable for me.
 - *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65 (Conveyed)
   - Dissertation: Research on UAV air combat decision-making based on hierarchical reinforcement learning
   - Scholarship: Scholarship from the School of Electronic Information (twice)
+
+# 🎖 Outstanding Course Achievements
+
+- Theoretical Mechanics 100/100
+- Principle of automatic control I 100/100
+- Computational Methods 100/100
+- Fundamentals of Electric Circuits I 99/100
+- C Programming Experiment(II) 97/100
+- Higher Mathematics(2) 98/100
+- Signal and System II 95/100
+- Experiments for Analog Circuit Design 96/100
+- Complex Function and Integral Transformation 96/100
+- Equations and Special Functions in Mathematical Physics 97/100
+- Fundamentals of Digital Electronics I 98/100
+- Principle of Electronic Countermeasure 95/100
+- Course Design of Exterior Aeroballistics 97/100
+- Principle & Application of Microcomputer 96/100
+- comprehensive experiment on detection guidance and control technology 96/100
+- Graduation Design or Thesis “Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning” 98/100
+- Fundamentals of Analog Electronics(I) 90/100 (Top 10 in the school)
+
+…….
+
+Please click links to find my complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png).
 
 # 🔥 News
 
@@ -52,15 +76,13 @@ He is currently finding a PhD position suitable for me.
     </tr>
 </table>
 
-
-
 # 🏅Honors and Awards
 
-- *2023.08*, National Graduate Student Electronic Design Competition **Northwestern Regional First Prize, Team Award (Team Leader) **
+- *2023.08*, National Graduate Student Electronic Design Competition Northwestern Regional First Prize, Team Award (Team Leader) 
 
-- *2023.08*, National Graduate Student Electronic Design Competition **(Business Track) Aug 2023 Northwestern Regional Third Prize, Team Award **
+- *2023.08*, National Graduate Student Electronic Design Competition (Business Track) Northwestern Regional Third Prize, Team Award
 
-- *2022.07*, National College Students’ Innovation and Entrepreneurship Training Program **Third Prize, Team Award (Team leader)** 
+- *2022.07*, National College Students’ Innovation and Entrepreneurship Training Program Third Prize, Team Award (Team leader) 
 
 - *2022.07*, Distinguished Graduate
 
@@ -78,8 +100,6 @@ He is currently finding a PhD position suitable for me.
 - Web Technologies: Docker
 - Operating Systems: Windows, Debian, Ubuntu, MacOS
 - Tools: PyTorch, OpenCV, Git
-
-
 
 # 💻 Video Demonstration
 
