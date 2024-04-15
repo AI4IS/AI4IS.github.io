@@ -7,19 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+​	I was born in Heilongjiang Province, China in 2000. During the year 2018 to 2022, I was pursuing my Bachelor’s Degree at Northwestern Polytechnical University. During the years 2022 to 2025, I am pursuing a master’s degree in Control Science and Engineering at Northwestern Polytechnical University.
+​	My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Control systems. 
+​	You can find my CV here: [Dinghan Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+​	I am currently finding a PhD position suitable for me.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+
+
+# 1. Papers
+
+## 1.1. Loyal Wingman Task Execution for Future Aerial Combat: A Hierarchical Prior-based Reinforcement Learning Approach
+
+🎉 Jiandong Zhang, **Dinghan Wang**, Qiming Yang, Zhuoyong Shi, Longmeng Ji, Guoqing Shi, Yong Wu. [Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach[J]. Chinese Journal of Aeronautics](https://doi.org/10.1016/j.cja.2024.03.009). (**co-first author**), **SCI JCRQ1 IF=5.7**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P9mMfpSGPnA?si=XjDbYYagHGp6aajH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+​	
+
+# 2. Competitions
+
+## 2.1. National Graduate Student Electronic Design Competition
+
+🎉 Northwestern Regional First Prize, Team Award (**Team Leader**)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lpzVwQIzMhM?si=gCzRhl840EarZswe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5HBWdTwz8k?si=6f4JkaIO0tUcbv7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-  I was born in Heilongjiang Province, China in 2000. During the year 2018 to 2022, I was pursuing my Bachelor’s Degree at Northwestern Polytechnical University. During the years 2022 to 2025, I am pursuing a master’s degree in Control Science and Engineering at Northwestern Polytechnical University.
-  My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Control systems. 
-  You can find my CV here: [Dinghan Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-  I am currently finding a PhD position suitable for me.
+You can check the certificate [here](../assets/certificate1.pdf).
 
 A data-driven personal website
 ======
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
