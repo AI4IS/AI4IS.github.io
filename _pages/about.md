@@ -108,11 +108,18 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9mMfpSGPnA?si=XjDbYYagHGp6aajH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yg9QV8Y7KQU?si=bTg-CGvkXY4Nq8Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - National Graduate Student Electronic Design Competition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lpzVwQIzMhM?si=gCzRhl840EarZswe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>	
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5HBWdTwz8k?si=6f4JkaIO0tUcbv7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 😃 Open Source Projects
+
+- [Vision-based-Intelligent-Robot-Arm-Game](https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game)
+- [Intelligent-aircraft-battle-game-sb3-jsbsim-flightgear](https://github.com/AI4IS/intelligent-aircraft-battle-game-sb3-jsbsim-flightgear)
 
 
 
