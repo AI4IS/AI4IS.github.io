@@ -65,7 +65,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
         <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td>
         <td width="50%">Jiandong Zhang, <b>Dinghan Wang</b>, Qiming Yang*, Zhuoyong Shi, Longmeng Ji, Guoqing Shi, Yong Wu. 
       			<br>
-<a href="https://doi.org/10.1016/j.cja.2024.03.009">Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach[J].</a>
+<a href="../assets/cjap1.pdf">Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach[J].</a>
             <br>
             Chinese Journal of Aeronautics.
             <br>
@@ -75,7 +75,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
     	<td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td>
         <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
       			<br>
-<a href="">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
+<a href="../assets/iccap3.pdf">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
             <br>
             IEEE ICCA 2024.
             <br>
@@ -92,27 +92,26 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>second author, EI</b>)</td>
     </tr>
     <tr>
-    	<td align="right" width="50%"><img src="" width="100%"></td>
+    	<td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td>
         <td width="50%"><b>Dinghan Wang</b>, Jiandong Zhang, Qiming Yang*, Jieling Liu, Guoqing Shi, Yaozhong Zhang. 
       			<br>
 <a href="">An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning[J].</a> 
             <br>
             IEEE Transactions on Aerospace and Electronic Systems.
             <br>
-            (<b>Major Revision. co-first author, SCI JCR Q1</b>)</td>
+            (<b>Major Revision. co-first author, SCI JCR Q1 TOP</b>)</td>
     </tr>
     <tr>
-    	<td align="right" width="50%"><img src="" width="100%"></td>
+    	<td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td>
         <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang*</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
       			<br>
-<a href="">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
+<a href="../assets/cjap2.pdf">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
             <br>
             Chinese Journal of Aeronautics.
             <br>
             (<b>Initial accept. co-correspondence author, SCI JCR Q1</b>)</td>
     </tr>
 </table>
-
 
 
 # 🏅 Honors and Awards
