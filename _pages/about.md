@@ -109,7 +109,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (<b>Jnitial accept. co-correspondence author, SCI JCR Q1</b>)</td>
+            (<b>Initial accept. co-correspondence author, SCI JCR Q1</b>)</td>
     </tr>
 </table>
 
