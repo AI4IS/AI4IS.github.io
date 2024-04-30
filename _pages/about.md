@@ -52,8 +52,10 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 # 🔥 News
 
-- *2024.03*:  🎉🎉 My manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been accepted by Chinese Journal of Aeronautics.
+- *2024.04*:  🎉🎉 My manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
+- *2024.04*:  🎉🎉 My manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision.
 - *2024.04*:  🎉🎉 My conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA.
+- *2024.03*:  🎉🎉 My manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been accepted by Chinese Journal of Aeronautics.
 - *2023.07*:  🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition (team leader).
 
 # 📝 Publications
@@ -73,7 +75,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
     	<td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td>
         <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
       			<br>
-<a href="">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play.</a> 
+<a href="">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
             <br>
             IEEE ICCA 2024.
             <br>
@@ -107,7 +109,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (<b>Decision in Process (will be accepted soon). co-correspondence author, SCI JCR Q1</b>)</td>
+            (<b>Jnitial accept. co-correspondence author, SCI JCR Q1</b>)</td>
     </tr>
 </table>
 
