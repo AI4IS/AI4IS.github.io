@@ -118,7 +118,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
     </tr>
     <tr>
     	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
-        <td width="50%">Zhuoyong Shi, Jiandong Zhang, Guoqing Shi, Longmeng Ji, <b>Dinghan Wang</b>, Yong Wu. 
+        <td width="50%">Zhuoyong Shi, Guoqing Shi, Jiandong Zhang, <b>Dinghan Wang</b>, Tianyue Xu, Longmeng Ji, Yong Wu. 
       			<br>
 <a href="../assets/sj2.pdf">Design of UAV Flight State Recognition System for Multi-sensor Data Fusion[J].</a> 
             <br>
