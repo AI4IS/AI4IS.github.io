@@ -133,7 +133,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 <a href="../assets/iccsi.pdf">Design of motion pattern recognition system based on artificial intelligence methods[C].</a> 
             <br>
             IEEE ICCSI.
-            <br>
+        </td>
     </tr>
     <tr>
     	<td align="right" width="50%"><img src="../assets/icicsp.png" width="100%"></td>
@@ -142,7 +142,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 <a href="../assets/icicsp.pdf">Autonomous Security Evaluation Model for UAV Based on Airborne Information[C].</a> 
             <br>
             IEEE ICICSP.
-            <br>
+        </td>
     </tr>  
 </table>
 
