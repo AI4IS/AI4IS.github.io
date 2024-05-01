@@ -9,7 +9,7 @@ redirect_from:
 
 # 👨‍🎓 About	
 
-**Dinghan Wang** is a 2nd-year master student in Control Science and Engineering at Northwestern Polytechnical University. My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Control Systems, Game Theory. 
+**Dinghan Wang** is a 2nd-year master student in Control Science and Engineering at Northwestern Polytechnical University. My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Robotics, Control Systems, Game Theory. 
 
 Outside of my academic life, I am an aviation enthusiast and geek. I grew up in Harbin, a beautiful city in the northeast of China. 
 
@@ -53,9 +53,9 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 # 🔥 News
 
 - *2024.04*:  🎉🎉 My manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
-- *2024.04*:  🎉🎉 My manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision.
-- *2024.04*:  🎉🎉 My conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA.
-- *2024.03*:  🎉🎉 My manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been accepted by Chinese Journal of Aeronautics.
+- *2024.04*:  🎉🎉 My manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision and reviewers' remarks are glad to be positive.
+- *2024.04*:  🎉🎉 My conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA. Looking forward to sharing our results in Iceland in June.
+- *2024.03*:  🎉🎉 My manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been totally accepted by Chinese Journal of Aeronautics and you can find it online.
 - *2023.07*:  🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition (team leader).
 
 # 📝 Publications
