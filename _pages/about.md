@@ -52,11 +52,16 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 # 🔥 News
 
-- *2024.04*:  🎉🎉 My manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
-- *2024.04*:  🎉🎉 My manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision and reviewers' remarks are glad to be positive.
-- *2024.04*:  🎉🎉 My conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA. Looking forward to sharing our results in Iceland in June.
-- *2024.03*:  🎉🎉 My manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been totally accepted by Chinese Journal of Aeronautics and you can find it online.
-- *2023.07*:  🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition (team leader).
+- *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
+- *2024.04*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision and reviewers' remarks are glad to be positive.
+- *2024.04*:  🎉🎉 Our manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been initially accepted by IEEE Sensors Journal.
+- *2024.04*:  🎉🎉 Our conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA. Looking forward to sharing our results in Iceland in June.
+- *2024.03*:  🎉🎉 Our manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been totally accepted by Chinese Journal of Aeronautics and you can find it online.
+- *2024.01*:  🎉🎉 Our manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been published by IEEE Sensors Journal.
+- *2023.11*:  🎉🎉 It is a pleasure to be a reviewer of IEEE Sensors Journal.
+- *2023.10*:  🎉🎉 Our conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been published by IEEE ICCSI.
+- *2023.09*:  🎉🎉 Our conference, “Autonomous Security Evaluation Model for UAV Based on Airborne Information”, has been published by IEEE ICICSP.
+- *2023.07*:  🎉🎉 I get First Prize of Northwest Region of Graduate Student Electronic Design Competition (team leader).
 
 # 📝 Publications
 
@@ -101,6 +106,44 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             (<b>Major Revision. co-first author, SCI JCR Q1 TOP</b>)</td>
     </tr>
+  <tr>
+    	<td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td>
+        <td width="50%">Zhuoyong Shi, Yetao Jia, Yong Wu, Kexin Zhang, Longmeng Ji, <b>Dinghan Wang</b>. 
+      			<br>
+<a href="../assets/sj1.pdf">Design of motor skill recognition and hierarchical evaluation system for table tennis players[J].</a> 
+            <br>
+            IEEE Sensors Journal.
+            <br>
+            (<b>SCI JCR Q1</b>)</td>
+    </tr>
+    <tr>
+    	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
+        <td width="50%">Zhuoyong Shi, Jiandong Zhang, Guoqing Shi, Longmeng Ji, <b>Dinghan Wang</b>, Yong Wu. 
+      			<br>
+<a href="../assets/sj2.pdf">Design of UAV Flight State Recognition System for Multi-sensor Data Fusion[J].</a> 
+            <br>
+            IEEE Sensors Journal.
+            <br>
+            (<b>SCI JCR Q1</b>)</td>
+    </tr>
+    <tr>
+    	<td align="right" width="50%"><img src="../assets/iccsi.png" width="100%"></td>
+        <td width="50%">Zhuoyong Shi, Liuming Yang, Yong Wu, <b>Dinghan Wang</b>, JianDong Zhang, Anli Zhang. 
+      			<br>
+<a href="../assets/iccsi.pdf">Design of motion pattern recognition system based on artificial intelligence methods[C].</a> 
+            <br>
+            IEEE ICCSI.
+            <br>
+    </tr>
+    <tr>
+    	<td align="right" width="50%"><img src="../assets/icicsp.png" width="100%"></td>
+        <td width="50%">Zhuoyong Shi, Mingyang Liu, Qiming Yang, Jieling Liu, <b>Dinghan Wang</b>, Jiandong Zhang. 
+      			<br>
+<a href="../assets/icicsp.pdf">Autonomous Security Evaluation Model for UAV Based on Airborne Information[C].</a> 
+            <br>
+            IEEE ICICSP.
+            <br>
+    </tr>  
 </table>
 
 
