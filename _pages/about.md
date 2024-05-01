@@ -71,6 +71,16 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             (<b>co-first author, SCI JCR Q1</b>)</td>
     </tr>
+  <tr>
+    	<td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td>
+        <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang*</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
+      			<br>
+<a href="../assets/cjap2.pdf">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
+            <br>
+            Chinese Journal of Aeronautics.
+            <br>
+            (<b>Initial accept. co-correspondence author, SCI JCR Q1</b>)</td>
+    </tr>
     <tr>
     	<td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td>
         <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
@@ -82,16 +92,6 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>first author</b>)</td>
     </tr>
     <tr>
-    	<td align="right" width="50%"><img src="../assets/EI.png" width="100%"></td>
-        <td width="50%">Jiandong Zhang, <b>Dinghan Wang</b>, Qiming Yang*, Guoqing Shi, Yi Lu, Yaozhong Zhang. 
-      			<br>
-<a href="http://www.co-journal.com/CN/10.12382/bgxb.2022.0711">Multi-Dimensional Decision-Making for UAV Air Combat Based on Hierarchical Reinforcement Learning[J].</a> 
-            <br>
-            Acta Armamentarii.
-            <br>
-            (<b>second author, EI</b>)</td>
-    </tr>
-    <tr>
     	<td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td>
         <td width="50%"><b>Dinghan Wang</b>, Jiandong Zhang, Qiming Yang*, Jieling Liu, Guoqing Shi, Yaozhong Zhang. 
       			<br>
@@ -100,16 +100,6 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             IEEE Transactions on Aerospace and Electronic Systems.
             <br>
             (<b>Major Revision. co-first author, SCI JCR Q1 TOP</b>)</td>
-    </tr>
-    <tr>
-    	<td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td>
-        <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang*</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
-      			<br>
-<a href="../assets/cjap2.pdf">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
-            <br>
-            Chinese Journal of Aeronautics.
-            <br>
-            (<b>Initial accept. co-correspondence author, SCI JCR Q1</b>)</td>
     </tr>
 </table>
 
