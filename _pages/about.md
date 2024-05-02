@@ -171,38 +171,6 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 - Operating Systems: Windows, Debian, Ubuntu, MacOS, OpenWRT, Proxmox VE
 - Tools: PyTorch, OpenCV, OpenDDS, Git, Vim
 
-# 💻 Video Demonstration
-
-- [Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach](https://github.com/AI4IS/intelligent-aircraft-battle-game-sb3-jsbsim-flightgear)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P9mMfpSGPnA?si=XjDbYYagHGp6aajH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yg9QV8Y7KQU?si=bTg-CGvkXY4Nq8Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- [Vision-based-Intelligent-Robot-Arm-Game](https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lpzVwQIzMhM?si=gCzRhl840EarZswe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>	
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U5HBWdTwz8k?si=6f4JkaIO0tUcbv7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rpkPVAdVu0Y?si=hkFwFG7qKl1V4yQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- [Vision-based-Reinforcement-learning-control-for-aircraft](https://github.com/AI4IS/Vision-based-Reinforcement-learning-control-for-aircraft)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rn8_Yru5TRI?si=23J_ppIhCE5Z_UiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- [Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning](https://github.com/AI4IS/Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hYS2ae7KZPc?si=gRozgRmc2YW2enq_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mco0JyHWVXE?si=DIwJPWpopHlXov8v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6tTO4YMhLxA?si=i0cwbpSzFLbf9iuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # 😃 Open Source Projects
 
 - [Vision-based-Intelligent-Robot-Arm-Game](https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game)
