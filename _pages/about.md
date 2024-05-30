@@ -11,7 +11,7 @@ redirect_from:
 
 **Dinghan Wang** is a 2nd-year master student in Control Science and Engineering at Northwestern Polytechnical University. My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Robotics, Control Systems, Game Theory. 
 
-Outside of my academic life, I am an aviation enthusiast and geek. I grew up in Harbin, a beautiful city in the northeast of China. 
+Outside of my academic life, I am an aviation enthusiast and geek. I was born in June 5th, 2000 in Harbin, a beautiful city in the northeast of China. 
 
 Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
 
