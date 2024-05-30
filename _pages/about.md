@@ -67,7 +67,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 <table border="0">
     <tr>
-        <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td>
+<!--         <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td> -->
         <td width="50%">Jiandong Zhang, <b>Dinghan Wang</b>, Qiming Yang*, Zhuoyong Shi, Longmeng Ji, Guoqing Shi, Yong Wu. 
       			<br>
 <a href="../assets/cjap1.pdf">Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach[J].</a>
@@ -77,7 +77,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>co-first author, SCI JCR Q1</b>)</td>
     </tr>
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td>
+<!--     	  <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td> -->
         <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang*</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
       			<br>
 <a href="../assets/cjap2.pdf">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
@@ -87,7 +87,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>Initial accept. co-correspondence author, SCI JCR Q1</b>)</td>
     </tr>
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td>
+<!--     	  <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td> -->
         <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
       			<br>
 <a href="../assets/iccap3.pdf">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
@@ -97,7 +97,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>first author</b>)</td>
     </tr>
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td>
+<!--     	  <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td> -->
         <td width="50%"><b>Dinghan Wang</b>, Jiandong Zhang, Qiming Yang*, Jieling Liu, Guoqing Shi, Yaozhong Zhang. 
       			<br>
 <a href="">An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning[J].</a> 
@@ -107,7 +107,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>Major Revision. co-first author, SCI JCR Q1 TOP</b>)</td>
     </tr>
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td>
+<!--     	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td> -->
         <td width="50%">Zhuoyong Shi, Yetao Jia, Yong Wu, Kexin Zhang, Longmeng Ji, <b>Dinghan Wang</b>. 
       			<br>
 <a href="../assets/sj1.pdf">Design of motor skill recognition and hierarchical evaluation system for table tennis players[J].</a> 
@@ -117,7 +117,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>SCI JCR Q1</b>)</td>
     </tr>
     <tr>
-    	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
+<!--     	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td> -->
         <td width="50%">Zhuoyong Shi, Guoqing Shi, Jiandong Zhang, <b>Dinghan Wang</b>, Tianyue Xu, Longmeng Ji, Yong Wu. 
       			<br>
 <a href="../assets/sj2.pdf">Design of UAV Flight State Recognition System for Multi-sensor Data Fusion[J].</a> 
@@ -127,7 +127,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             (<b>SCI JCR Q1</b>)</td>
     </tr>
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/iccsi.png" width="100%"></td>
+<!--     	  <td align="right" width="50%"><img src="../assets/iccsi.png" width="100%"></td> -->
         <td width="50%">Zhuoyong Shi, Liuming Yang, Yong Wu, <b>Dinghan Wang</b>, JianDong Zhang, Anli Zhang. 
       			<br>
 <a href="../assets/iccsi.pdf">Design of motion pattern recognition system based on artificial intelligence methods[C].</a> 
@@ -136,7 +136,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
         </td>
     </tr>
     <tr>
-    	<td align="right" width="50%"><img src="../assets/icicsp.png" width="100%"></td>
+<!--     	<td align="right" width="50%"><img src="../assets/icicsp.png" width="100%"></td> -->
         <td width="50%">Zhuoyong Shi, Mingyang Liu, Qiming Yang, Jieling Liu, <b>Dinghan Wang</b>, Jiandong Zhang. 
       			<br>
 <a href="../assets/icicsp.pdf">Autonomous Security Evaluation Model for UAV Based on Airborne Information[C].</a> 
