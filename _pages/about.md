@@ -206,19 +206,20 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 <table border="0">
     <tr>
-        <td align="right" width="33%"><img src="../assets/6dof.png" width="33%"></td>
-        <td align="right" width="33%"><img src="../assets/1a.png" width="33%"></td>
+        <td align="right" width="50%"><img src="../assets/6dof.png" width="50%"></td>
+        <td align="right" width="50%"><img src="../assets/1a.png" width="50%"></td>
     </tr>
     <tr>
-        <td align="right" width="33%"><img src="../assets/ICCA.png" width="33%"></td>
-        <td align="right" width="33%"><img src="../assets/a2.png" width="33%"></td>
+        <td align="right" width="50%"><img src="../assets/ICCA.png" width="50%"></td>
+        <td align="right" width="50%"><img src="../assets/a2.png" width="50%"></td>
     </tr>
     <tr>
-        <td align="right" width="33%"><img src="../assets/sj1.png" width="33%"></td>
-        <td align="right" width="33%"><img src="../assets/sj2.png" width="33%"></td>
+        <td align="right" width="50%"><img src="../assets/sj1.png" width="50%"></td>
+        <td align="right" width="50%"><img src="../assets/sj2.png" width="50%"></td>
     </tr>
     <tr>
-    	  
+    	  <td align="right" width="50%"><img src="../assets/reinforcement learning controller.gif" width="50%"></td>
+        <td align="right" width="50%"><img src="../assets/autonomous.jpg" width="50%"></td>
     </tr>
 </table>
 
