@@ -206,29 +206,18 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 <table border="0">
     <tr>
-        <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td>
-    </tr>
-    <tr>
-    	  <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td>
-    </tr>
-    <tr>
-    	  <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td>
+        <td align="right" width="33%"><img src="../assets/6dof.png" width="100%"></td>
+        <td align="right" width="33%"><img src="../assets/1a.png" width="100%"></td>
+        <td align="right" width="33%"><img src="../assets/ICCA.png" width="100%"></td>
     </tr>
     <tr>
     	  <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td>
+        <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td>
+        <td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
     </tr>
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td>
+    	  
     </tr>
-    <tr>
-    	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
-    </tr>
-    <tr>
-    	  <td align="right" width="50%"><img src="../assets/iccsi.png" width="100%"></td>
-    </tr>
-    <tr>
-    	<td align="right" width="50%"><img src="../assets/icicsp.png" width="100%"></td>
-    </tr>  
 </table>
 
 
