@@ -19,9 +19,9 @@ Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
 
 # 🎓 Education
 
-- *2022.09 - Present*, Northwestern Polytechnic University, MPhil, Control Science and Engineering, 1st/30
-  - Dissertation: 
-  - Scholarship: []()
+- *2022.09 - Present*, Northwestern Polytechnic University, MPhil, Control Science and Engineering
+  - Dissertation: To be determined
+  - Scholarship: To be determined
 - *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65 (Conveyed)
   - Dissertation: Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning
   - Scholarship: Scholarship from the School of Electronic Information (twice)
@@ -51,7 +51,8 @@ Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
 Please click links to find my **complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png)**.
 
 # 🔥 News
-
+- *2024.05*:  I'm going to open source how to train a robust controller using reinforcement learning algorithm for crazyflie in simulation with OpenAI stablebaselines3 and deploy it in real.
+- *2024.05*:  I'm going to open source a low-cost plan (400$) to build up an autonomous obstacle avoidance drone.
 - *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
 - *2024.04*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision and reviewers' remarks are glad to be positive.
 - *2024.04*:  🎉🎉 Our manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been initially accepted by IEEE Sensors Journal.
