@@ -30,7 +30,7 @@ Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
 
 <table border="0">
     <tr>
-        <td width="50%">Theoretical Mechanics <i>100/100*</i></td>
+        <td width="50%">Theoretical Mechanics <i>100/100</i></td>
         <td width="50%">Principle of automatic control (I) <i>100/100</i></td>
     </tr>
     <tr>
