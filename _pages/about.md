@@ -215,9 +215,9 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
         <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td>
         <td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
     </tr>
-    <tr>
+<!--     <tr>
     	  
-    </tr>
+    </tr> -->
 </table>
 
 
