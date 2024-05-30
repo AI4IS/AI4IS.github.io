@@ -30,37 +30,46 @@ Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
 
 <table border="0">
     <tr>
-        <td width="50%">Theoretical Mechanics *100/100*</td>
-        <td width="50%">Principle of automatic control I *100/100*</td>
+        <td width="50%">Theoretical Mechanics <i>100/100*</i></td>
+        <td width="50%">Principle of automatic control (I) <i>100/100</i></td>
     </tr>
     <tr>
-        <td width="50%"> </td>
-        <td width="50%"> </td>
+        <td width="50%">Computational Methods <i>100/100</i></td>
+        <td width="50%">Fundamentals of Electric Circuits (I) <i>99</i></td>
     </tr>
     <tr>
-        <td width="50%"> </td>
-        <td width="50%"> </td>
+        <td width="50%">C Programming Experiment (II) <i>97/100</i></td>
+        <td width="50%">Higher Mathematics (II) <i>98/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Signal and System <i>97/100</i></td>
+        <td width="50%">Higher Mathematics (II) <i>98/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Signal and System (II) <i>95/100</i></td>
+        <td width="50%">Experiments for Analog Circuit Design <i>96/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Complex Function and Integral Transformation <i>96/100</i></td>
+        <td width="50%">Equations and Special Functions in Mathematical Physics <i>97/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Fundamentals of Digital Electronics (I) <i>98/100</i></td>
+        <td width="50%">Principle of Electronic Countermeasure <i>95/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Course Design of Exterior Aeroballistics <i>97/100</i></td>
+        <td width="50%">Principle & Application of Microcomputer <i>96/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Comprehensive experiment on detection guidance and control technology <i>96/100</i></td>
+        <td width="50%">Principle & Application of Microcomputer <i>96/100</i></td>
+    </tr>
+    <tr>
+        <td width="50%">Graduation Design or Thesis “Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning” <i>98/100</i></td>
+        <td width="50%">Fundamentals of Analog Electronics (I) <i>90/100 (Top 10 in the school)</i></td>
     </tr>
 </table>
-
--  100/100
-- Computational Methods 100/100
-- Fundamentals of Electric Circuits I 99/100
-- C Programming Experiment(II) 97/100
-- Higher Mathematics(2) 98/100
-- Signal and System II 95/100
-- Experiments for Analog Circuit Design 96/100
-- Complex Function and Integral Transformation 96/100
-- Equations and Special Functions in Mathematical Physics 97/100
-- Fundamentals of Digital Electronics I 98/100
-- Principle of Electronic Countermeasure 95/100
-- Course Design of Exterior Aeroballistics 97/100
-- Principle & Application of Microcomputer 96/100
-- comprehensive experiment on detection guidance and control technology 96/100
-- Graduation Design or Thesis “Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning” 98/100
-- Fundamentals of Analog Electronics(I) 90/100 (Top 10 in the school)
-
-…….
 
 Please click links to find my **complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png)**.
 
