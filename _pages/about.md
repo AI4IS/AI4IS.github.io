@@ -28,8 +28,22 @@ Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
 
 # 🎖 Outstanding Course Achievements
 
-- Theoretical Mechanics 100/100
-- Principle of automatic control I 100/100
+<table border="0">
+    <tr>
+        <td width="50%">Theoretical Mechanics *100/100*</td>
+        <td width="50%">Principle of automatic control I *100/100*</td>
+    </tr>
+    <tr>
+        <td width="50%"> </td>
+        <td width="50%"> </td>
+    </tr>
+    <tr>
+        <td width="50%"> </td>
+        <td width="50%"> </td>
+    </tr>
+</table>
+
+-  100/100
 - Computational Methods 100/100
 - Fundamentals of Electric Circuits I 99/100
 - C Programming Experiment(II) 97/100
