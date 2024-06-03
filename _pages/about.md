@@ -75,7 +75,7 @@ Research demonstrations are shown in my **[Youtube channel](https://www.youtube.
 Please click links to find my **complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png)**.
 
 # 🔥 News
-- *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been aaccepted by IEEE IEEE Transactions on Aerospace and Electronic Systems.
+- *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been aaccepted by IEEE Transactions on Aerospace and Electronic Systems.
 - *2024.05*:  **I'm going to open source a low-cost plan (400$) to build up an autonomous obstacle avoidance drone.**
 - *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
 - *2024.04*:  🎉🎉 Our manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been initially accepted by IEEE Sensors Journal.
