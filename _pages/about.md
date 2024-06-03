@@ -201,6 +201,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 - [Intelligent-aircraft-battle-game-sb3-jsbsim-flightgear](https://github.com/AI4IS/intelligent-aircraft-battle-game-sb3-jsbsim-flightgear)
 - [Vision-based-Reinforcement-learning-control-for-aircraft](https://github.com/AI4IS/Vision-based-Reinforcement-learning-control-for-aircraft)
 - [Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning](https://github.com/AI4IS/Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning)
+- [Stablebaselines3_quad_s2r](https://github.com/AI4IS/stablebaselines3_quad_s2r)
 
 # Research gallery
 
