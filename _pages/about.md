@@ -13,7 +13,8 @@ redirect_from:
 
 Outside of my academic life, I am an aviation enthusiast and geek. I was born in June 5th, 2000 in Harbin, a beautiful city in the northeast of China. 
 
-Please find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
+You can find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
+Research demonstrations are shown in my **[Youtube channel](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA)**.
 
 **I am currently finding a PhD position suitable for me.**
 
