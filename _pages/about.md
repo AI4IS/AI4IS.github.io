@@ -128,7 +128,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             IEEE Transactions on Aerospace and Electronic Systems.
             <br>
-            (<b>Major Revision. co-first author, SCI JCR Q1 TOP</b>)</td>
+            (<b>Accept. co-first author, SCI JCR Q1 TOP</b>)</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td> -->
