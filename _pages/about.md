@@ -36,7 +36,7 @@ Research demonstrations are shown in my **[Youtube channel](https://www.youtube.
     </tr>
     <tr>
         <td width="50%">Computational Methods <i>100/100</i></td>
-        <td width="50%">Fundamentals of Electric Circuits (I) <i>99</i></td>
+        <td width="50%">Fundamentals of Electric Circuits (I) <i>99/100</i></td>
     </tr>
     <tr>
         <td width="50%">C Programming Experiment (II) <i>97/100</i></td>
@@ -75,10 +75,9 @@ Research demonstrations are shown in my **[Youtube channel](https://www.youtube.
 Please click links to find my **complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png)**.
 
 # 🔥 News
-- *2024.05*:  **I'm going to open source how to train a robust controller using reinforcement learning algorithm for crazyflie in simulation with OpenAI stablebaselines3 and deploy it in real.**
+- *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been aaccepted by IEEE IEEE Transactions on Aerospace and Electronic Systems.
 - *2024.05*:  **I'm going to open source a low-cost plan (400$) to build up an autonomous obstacle avoidance drone.**
 - *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
-- *2024.04*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” needs Major Revision and reviewers' remarks are glad to be positive.
 - *2024.04*:  🎉🎉 Our manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been initially accepted by IEEE Sensors Journal.
 - *2024.04*:  🎉🎉 Our conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA. Looking forward to sharing our results in Iceland in June.
 - *2024.03*:  🎉🎉 Our manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been totally accepted by Chinese Journal of Aeronautics and you can find it online.
