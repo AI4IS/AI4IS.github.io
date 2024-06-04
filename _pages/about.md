@@ -44,7 +44,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
     </tr>
     <tr>
         <td width="50%">Signal and System <i>97/100</i></td>
-        <td width="50%">Higher Mathematics (II) <i>98/100</i></td>
+        <td width="50%">Comprehensive experiment on detection guidance and control technology <i>96/100</i></td>
     </tr>
     <tr>
         <td width="50%">Signal and System (II) <i>95/100</i></td>
@@ -60,10 +60,6 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
     </tr>
     <tr>
         <td width="50%">Course Design of Exterior Aeroballistics <i>97/100</i></td>
-        <td width="50%">Principle & Application of Microcomputer <i>96/100</i></td>
-    </tr>
-    <tr>
-        <td width="50%">Comprehensive experiment on detection guidance and control technology <i>96/100</i></td>
         <td width="50%">Principle & Application of Microcomputer <i>96/100</i></td>
     </tr>
     <tr>
