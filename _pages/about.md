@@ -177,16 +177,10 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 # 🏅 Honors and Awards
 
 - *2023.08*, National Graduate Student Electronic Design Competition Northwestern Regional First Prize, Team Award (Team Leader) 
-
 - *2023.08*, National Graduate Student Electronic Design Competition (Business Track) Northwestern Regional Third Prize, Team Award
-
 - *2022.07*, National College Students’ Innovation and Entrepreneurship Training Program Third Prize, Team Award (Team leader) 
-
 - *2022.07*, Distinguished Graduate
-
 - *2020 - 2021*, Outstanding Graduation Dissertation
-
-- *2019 - 2021*, Scholarship from the School of Electronic Information (twice)
 
   **[Click here to view all my award certificates](../assets/certificates_combine.pdf)**
 
@@ -219,8 +213,6 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
         <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td>
     </tr>
 </table>
-
-You can find more demostrations [here](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA).
 
 
 <a href="https://info.flagcounter.com/wihv"><img src="https://s11.flagcounter.com/count2/wihv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
