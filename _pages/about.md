@@ -211,32 +211,16 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 
 <table border="0">
     <tr>
-    	  <td align="right" width="50%"><img src="../assets/reinforcement learning controller.gif" width="100%"></td>
-        <td align="right" width="50%"><img src="../assets/autonomous.jpg" width="100%"></td>
-    </tr>
-    <tr>
-        <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td>
-        <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td>
+    	  <td align="right" width="50%"><img src="../assets/146_1717410757-ezgif.com-optimize.gif" width="100%"></td>
+        <td align="right" width="50%"><img src="../assets/536_1717133301-ezgif.com-optimize.gif" width="100%"></td>
     </tr>
     <tr>
         <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td>
         <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td>
     </tr>
-    <tr>
-        <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td>
-        <td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td align="right" width="50%"><img src="../assets/itr_01800-ezgif.com-video-to-gif-converter.gif" width="100%"></td>
-        <td align="right" width="50%"><img src="../assets/536_1717133301-ezgif.com-video-to-gif-converter.gif" width="100%"></td>
-    </tr>
-    <tr>
-        <td align="right" width="50%"><img src="../assets/146_1717410757-ezgif.com-video-to-gif-converter.gif" width="100%"></td>
-    </tr>
-  
 </table>
 
-You can find more video demostration [here](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA).
+You can find more demostrations [here](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA).
 
 
 <a href="https://info.flagcounter.com/wihv"><img src="https://s11.flagcounter.com/count2/wihv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
