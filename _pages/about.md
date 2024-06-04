@@ -23,7 +23,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
 - *2022.09 - Present*, Northwestern Polytechnic University, MPhil, Control Science and Engineering
   - Dissertation: To be determined
   - Scholarship: To be determined
-- *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65 (Conveyed)
+- *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65
   - Dissertation: Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning
   - Scholarship: Scholarship from the School of Electronic Information (twice)
 
