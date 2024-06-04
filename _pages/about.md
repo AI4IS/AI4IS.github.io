@@ -90,6 +90,26 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 # 📝 Publications
 
 <table border="0">
+  <tr>
+<!--     	  <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td> -->
+        <td width="50%"><b>Dinghan Wang</b>, Jiandong Zhang, Qiming Yang*, Jieling Liu, Guoqing Shi, Yaozhong Zhang. 
+      			<br>
+<a href="">An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning[J].</a> 
+            <br>
+            IEEE Transactions on Aerospace and Electronic Systems.
+            <br>
+            (SCI JCR Q1) DOI: 10.1109/TAES.2024.3410249</td>
+    </tr>
+  <tr>
+<!--     	  <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td> -->
+        <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
+      			<br>
+<a href="../assets/iccap3.pdf">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
+            <br>
+            2024 IEEE International Conference on Control & Automation (ICCA).
+            <br>
+            </td>
+    </tr>
     <tr>
 <!--         <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td> -->
         <td width="50%">Jiandong Zhang, <b>Dinghan Wang</b>, Qiming Yang*, Zhuoyong Shi, Longmeng Ji, Guoqing Shi, Yong Wu. 
@@ -98,7 +118,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (<b>co-first author, SCI JCR Q1</b>)</td>
+            (Co-first author, SCI JCR Q1) DOI: 10.1016/j.cja.2024.03.009</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td> -->
@@ -108,27 +128,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (<b>Initial accept. co-correspondence author, SCI JCR Q1</b>)</td>
-    </tr>
-    <tr>
-<!--     	  <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td> -->
-        <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
-      			<br>
-<a href="../assets/iccap3.pdf">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
-            <br>
-            IEEE ICCA 2024.
-            <br>
-            (<b>first author</b>)</td>
-    </tr>
-    <tr>
-<!--     	  <td align="right" width="50%"><img src="../assets/a2.png" width="100%"></td> -->
-        <td width="50%"><b>Dinghan Wang</b>, Jiandong Zhang, Qiming Yang*, Jieling Liu, Guoqing Shi, Yaozhong Zhang. 
-      			<br>
-<a href="">An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning[J].</a> 
-            <br>
-            IEEE Transactions on Aerospace and Electronic Systems.
-            <br>
-            (<b>Accept. co-first author, SCI JCR Q1 TOP</b>)</td>
+            (Waiting online, co-correspondence author, SCI JCR Q1)</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td> -->
@@ -138,7 +138,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             IEEE Sensors Journal.
             <br>
-            (<b>SCI JCR Q1</b>)</td>
+            (SCI JCR Q1) DOI: 10.1109/JSEN.2023.3346880</td>
     </tr>
     <tr>
 <!--     	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td> -->
@@ -148,7 +148,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
             <br>
             IEEE Sensors Journal.
             <br>
-            (<b>SCI JCR Q1</b>)</td>
+            (SCI JCR Q1) DOI: 10.1109/JSEN.2024.3394883</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/iccsi.png" width="100%"></td> -->
@@ -156,7 +156,9 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
       			<br>
 <a href="../assets/iccsi.pdf">Design of motion pattern recognition system based on artificial intelligence methods[C].</a> 
             <br>
-            IEEE ICCSI.
+            2023 IEEE International Conference on Cyber-physical Social Intelligence.
+          <br>
+          DOI: 10.1109/ICCSI58851.2023.10303805
         </td>
     </tr>
     <tr>
@@ -165,7 +167,9 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
       			<br>
 <a href="../assets/icicsp.pdf">Autonomous Security Evaluation Model for UAV Based on Airborne Information[C].</a> 
             <br>
-            IEEE ICICSP.
+            2023 IEEE International Conference on Information Communication and Signal Processing.
+          <br>
+          DOI: 10.1109/ICICSP59554.2023.10390620
         </td>
     </tr>  
 </table>
