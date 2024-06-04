@@ -193,7 +193,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 - Operating Systems: Windows, Debian, Ubuntu, MacOS, OpenWRT, Proxmox VE
 - Tools: PyTorch, OpenCV, OpenDDS, Git, Vim
 
-# 😃 Open Source Projects
+# 💻 Open Source Projects
 
 - [Vision-based-Intelligent-Robot-Arm-Game](https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game)
 - [Intelligent-aircraft-battle-game-sb3-jsbsim-flightgear](https://github.com/AI4IS/intelligent-aircraft-battle-game-sb3-jsbsim-flightgear)
@@ -201,7 +201,7 @@ Please click links to find my **complete [bachelor’s grades](../assets/Dinghan
 - [Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning](https://github.com/AI4IS/Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning)
 - [Stablebaselines3_quad_s2r](https://github.com/AI4IS/stablebaselines3_quad_s2r)
 
-# Research gallery
+# 🖼 Research gallery
 
 <table border="0">
     <tr>
