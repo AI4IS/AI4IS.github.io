@@ -211,4 +211,6 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 </table>
 
 
-<a href="https://info.flagcounter.com/wihv" style="display: none;"><img src="https://s11.flagcounter.com/count2/wihv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/wihv" style="display: none;"><img src="" alt="Flag Counter" border="0"></a>
+
+
