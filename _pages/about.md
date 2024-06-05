@@ -1,4 +1,3 @@
-<img width="432" alt="image" src="https://github.com/AI4IS/AI4IS.github.io/assets/163995208/987c25ea-fe99-4953-904c-6b2255105c8f">---
 permalink: /
 title: "Welcome to Dinghan Wang’s homepage!"
 author_profile: true
