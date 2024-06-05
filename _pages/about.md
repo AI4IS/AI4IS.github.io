@@ -187,7 +187,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 - Clouds & Databases: MySQL, Tencent Cloud, Ali Cloud, Azure Cloud
 - Web Technologies: Docker, NAT(v4&v6), Nginx, HTTP, SSL
 - Operating Systems: Windows, Debian, Ubuntu, MacOS, OpenWRT, Proxmox VE
-- Tools: PyTorch, OpenCV, OpenDDS, Git, Vim, ROS
+- Tools: PyTorch, OpenCV, OpenDDS, Git, Vim, ROS, LATEX
 
 # 💻 Open Source Projects
 
