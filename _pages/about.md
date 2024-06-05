@@ -168,7 +168,6 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
           DOI: 10.1109/ICICSP59554.2023.10390620
         </td>
     </tr>  
-<!--   <td>https://s11.flagcounter.com/count2/wihv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/</td> -->
 </table>
 
 # 🏅 Honors and Awards
