@@ -90,7 +90,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 <!--     	  <td align="right" width="50%"><img src="../assets/TAES_1.png" width="100%"></td> -->
         <td width="50%"><b>Dinghan Wang</b>, Jiandong Zhang, Qiming Yang*, Jieling Liu, Guoqing Shi, Yaozhong Zhang. 
       			<br>
-<a href="">An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning[J].</a> 
+<a href="../assets/TAES_1.png">An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning[J].</a> 
             <br>
             IEEE Transactions on Aerospace and Electronic Systems.
             <br>
