@@ -68,7 +68,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
     </tr>
 </table>
 
-Please click links to find my **complete [bachelor’s grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master’s grades](../assets/master grades.png)**.
+Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master's grades](../assets/master grades.png)**.
 
 # 🔥 News
 - *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
