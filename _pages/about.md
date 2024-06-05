@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to Dinghan Wang’s homepage!"
 author_profile: true
