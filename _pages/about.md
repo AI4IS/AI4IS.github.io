@@ -100,7 +100,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 <!--     	  <td align="right" width="50%"><img src="../assets/ICCA.png" width="100%"></td> -->
         <td width="50%"><b>Dinghan Wang</b>, Longmeng Ji, Jingbo Wang, Zhuoyong Shi, Jiandong Zhang*, Qiming Yang, Guoqing Shi, Yong Wu, Yan Zhu, Jinwen Hu. 
       			<br>
-<a href="../assets/iccap3.pdf">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10591896">Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play[C].</a> 
             <br>
             2024 IEEE International Conference on Control & Automation (ICCA).
             <br>
@@ -110,7 +110,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 <!--         <td align="right" width="50%"><img src="../assets/6dof.png" width="100%"></td> -->
         <td width="50%">Jiandong Zhang, <b>Dinghan Wang</b>, Qiming Yang*, Zhuoyong Shi, Longmeng Ji, Guoqing Shi, Yong Wu. 
       			<br>
-<a href="../assets/cjap1.pdf">Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach[J].</a>
+<a href="https://doi.org/10.1016/j.cja.2024.03.009">Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach[J].</a>
             <br>
             Chinese Journal of Aeronautics.
             <br>
