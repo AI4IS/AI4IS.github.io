@@ -9,83 +9,83 @@ redirect_from:
 
 {% include base_path %}
 
-# 👨‍🎓 About	
+# 👨‍🎓 简介	
 
-**Dinghan Wang** is a 2nd-year master student in Control Science and Engineering at Northwestern Polytechnical University. My research interest includes: Deep Reinforcement Learning, Computer Vision, Intelligent Systems, UAV, Robotics, Control Systems, Game Theory. 
+**王鼎涵** 是西北工业大学控制科学与工程专业二年级硕士生。我的研究兴趣包括：深度强化学习、计算机视觉、智能系统、无人机、机器人、控制系统、博弈论。 
 
-Outside of my academic life, I am an aviation enthusiast and geek. I was born in June 5th, 2000 in Harbin, a beautiful city in the northeast of China. 
+在学术生活之外，我是一名航空爱好者和极客。我于2000年6月5日出生在中国东北一个美丽的城市哈尔滨。
 
-You can find my **CV [here](../assets/Curriculum_Vitae.pdf)**.
-Research demonstrations are shown on my **[YouTube channel](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA)**.
+您可以在[这里](../assets/Curriculum_Vitae.pdf)找到我的**简历**。
+**研究演示**在我的[YouTube 频道](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA)上展示。
 
-**I am currently finding a PhD position suitable for me.**
+**我目前正在寻找适合我的博士职位。**
 
-# 🎓 Education
+# 🎓 教育经历
 
-- *2022.09 - Present*, Northwestern Polytechnic University, MPhil, Control Science and Engineering
-  - Dissertation: To be determined
-  - Scholarship: To be determined
-- *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65
-  - Dissertation: Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning
-  - Scholarship: Scholarship from the School of Electronic Information (twice)
+- *2022.09 - 至今*，西北工业大学，硕士，控制科学与工程
+  - 论文：待定
+  - 奖学金：待定
+- *2018.09 - 2022.06*, 西北工业大学, 学士, 探测制导与控制技术, 10th/65
+  - 论文：基于分层强化学习的无人机空战决策研究
+  - 奖学金：电子信息学院奖学金（两次）
 
-# 🎖 Outstanding Course Achievements
+# 🎖 优异的课程成绩
 
 <table border="0">
     <tr>
-        <td width="50%">Theoretical Mechanics <i>100/100</i></td>
-        <td width="50%">Principle of automatic control (I) <i>100/100</i></td>
+        <td width="50%">理论力学 <i>100/100</i></td>
+        <td width="50%">自动控制原理（一） <i>100/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Computational Methods <i>100/100</i></td>
-        <td width="50%">Fundamentals of Electric Circuits (I) <i>99/100</i></td>
+        <td width="50%">计算方法 <i>100/100</i></td>
+        <td width="50%">电路基础（一） <i>99/100</i></td>
     </tr>
     <tr>
-        <td width="50%">C Programming Experiment (II) <i>97/100</i></td>
-        <td width="50%">Higher Mathematics (II) <i>98/100</i></td>
+        <td width="50%">C编程实验（二） <i>97/100</i></td>
+        <td width="50%">高等数学（二） <i>98/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Signal and System <i>97/100</i></td>
-        <td width="50%">Comprehensive experiment on detection guidance and control technology <i>96/100</i></td>
+        <td width="50%">信号与系统 <i>97/100</i></td>
+        <td width="50%">探测制导与控制技术综合实验 <i>96/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Signal and System (II) <i>95/100</i></td>
-        <td width="50%">Experiments for Analog Circuit Design <i>96/100</i></td>
+        <td width="50%">信号与系统（二） <i>95/100</i></td>
+        <td width="50%">模拟电路设计实验 <i>96/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Complex Function and Integral Transformation <i>96/100</i></td>
-        <td width="50%">Equations and Special Functions in Mathematical Physics <i>97/100</i></td>
+        <td width="50%">复函数与积分变换 <i>96/100</i></td>
+        <td width="50%">数学物理中的方程和特殊函数 <i>97/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Fundamentals of Digital Electronics (I) <i>98/100</i></td>
-        <td width="50%">Principle of Electronic Countermeasure <i>95/100</i></td>
+        <td width="50%">数字电子学基础（一） <i>98/100</i></td>
+        <td width="50%">电子对抗原理 <i>95/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Course Design of Exterior Aeroballistics <i>97/100</i></td>
-        <td width="50%">Principle & Application of Microcomputer <i>96/100</i></td>
+        <td width="50%">航空外弹道课程设计 <i>97/100</i></td>
+        <td width="50%">微机原理及应用 <i>96/100</i></td>
     </tr>
     <tr>
-        <td width="50%">Graduation Design or Thesis “Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning” <i>98/100</i></td>
-        <td width="50%">Fundamentals of Analog Electronics (I) <i>90/100 (Top 10 in the school)</i></td>
+        <td width="50%">毕业设计论文《基于分层强化学习的无人机空战决策研究》 <i>98/100</i></td>
+        <td width="50%">模拟电子基础（一） <i>90/100 (校内前10名)</i></td>
     </tr>
 </table>
 
-Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master's grades](../assets/master grades.png)**.
+请点击链接查找我完整的[学士成绩](../assets/Dinghan Wang_undergraduate transcripts.pdf)和[硕士学位成绩](../assets/master grades.png)。
 
-# 🔥 News
-- *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
-- *2024.05*:  I'm going to open source a low-cost plan (400$) to build up an autonomous obstacle avoidance drone.
-- *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
-- *2024.04*:  🎉🎉 Our manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been initially accepted by IEEE Sensors Journal.
-- *2024.04*:  🎉🎉 Our conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA. Looking forward to sharing our results in Iceland in June.
-- *2024.03*:  🎉🎉 Our manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been totally accepted by Chinese Journal of Aeronautics and you can find it online.
-- *2024.01*:  🎉🎉 Our manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been published by IEEE Sensors Journal.
-- *2023.11*:  🎉🎉 It is a pleasure to be a reviewer of IEEE Sensors Journal.
-- *2023.10*:  🎉🎉 Our conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been published by IEEE ICCSI.
-- *2023.09*:  🎉🎉 Our conference, “Autonomous Security Evaluation Model for UAV Based on Airborne Information”, has been published by IEEE ICICSP.
-- *2023.07*:  🎉🎉 I get First Prize of Northwest Region of Graduate Student Electronic Design Competition (team leader).
+# 🔥 新闻
+- *2024.06*:  🎉🎉 我们的论文“An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning”已被IEEE Transactions on Aerospace and Electronic Systems接收。
+- *2024.05*:  我将开源一个低成本计划（2800 人民币）来构建自主避障无人机。
+- *2024.04*:  🎉🎉 我们的论文《ntelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework》已被《航空学报英文版》初步接收。
+- *2024.04*:  🎉🎉 我们的论文《Design of UAV Flight State Recognition System for Multi-sensor Data Fusion》已被IEEE Sensors Journal初步接收。
+- *2024.04*:  🎉🎉 我们的会议“Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”已被IEEE ICCA接收。期待分享我们六月在冰岛的成果。
+- *2024.03*:  🎉🎉 我们的论文, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”已被《航空学报英文版》完全接收，您可以在网上找到它。
+- *2024.01*:  🎉🎉 我们的论文 “Design of motor skill recognition and hierarchical evaluation system for table tennis players”已在 IEEE Sensors Journal 发表。
+- *2023.11*:  🎉🎉 很高兴成为 IEEE Sensors Journal 的审稿人。
+- *2023.10*:  🎉🎉 我们的会议 “Design of motion pattern recognition system based on artificial intelligence methods”已由IEEE ICCSI 发表。
+- *2023.09*:  🎉🎉 我们的会议 “Autonomous Security Evaluation Model for UAV Based on Airborne Information”已由IEEE IICSP出版。
+- *2023.07*:  🎉🎉 获得研究生电子设计大赛西北赛区一等奖（队长）。
 
-# 📝 Publications
+# 📝 论文发表
 
 <table border="0">
   <tr>
@@ -174,24 +174,24 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 
 # 🏅 Honors and Awards
 
-- *2023.08*, National Graduate Student Electronic Design Competition Northwestern Regional First Prize, Team Award (Team Leader) 
-- *2023.08*, National Graduate Student Electronic Design Competition (Business Track) Northwestern Regional Third Prize, Team Award
-- *2022.07*, National College Students’ Innovation and Entrepreneurship Training Program Third Prize, Team Award (Team leader) 
-- *2022.07*, Distinguished Graduate
-- *2020 - 2021*, Outstanding Graduation Dissertation
+- *2023.08*, 全国研究生电子设计大赛西北赛区一等奖，团队奖（队长） 
+- *2023.08*, 全国研究生电子设计大赛（商业赛道）西北赛区三等奖，团体奖
+- *2022.07*, 全国大学生创新创业训练计划三等奖，团队奖（团队负责人） 
+- *2022.07*, 优秀毕业生
+- *2020 - 2021*, 优秀毕业论文
 
-  **[Click here to view all my award certificates](../assets/certificates_combine.pdf)**
+  **[点击这里查看所有获奖证书](../assets/certificates_combine.pdf)**
 
-# 🔧 Skills
+# 🔧 技能
 
-- Languages: Python, C, C++
-- Frontend: HTML, CSS, JavaScript
-- Clouds & Databases: MySQL, Tencent Cloud, Ali Cloud, Azure Cloud
-- Web Technologies: Docker, NAT(v4&v6), Nginx, HTTP, SSL
-- Operating Systems: Windows, Debian, Ubuntu, MacOS, OpenWRT, Proxmox VE
-- Tools: PyTorch, OpenCV, OpenDDS, Git, Vim, ROS, LATEX
+- 编程语言: Python, C, C++
+- 前端: HTML, CSS, JavaScript
+- 云 & 数据库: MySQL, Tencent Cloud, Ali Cloud, Azure Cloud
+- 网络技术: Docker, NAT(v4&v6), Nginx, HTTP, SSL
+- 操作系统: Windows, Debian, Ubuntu, MacOS, OpenWRT, Proxmox VE
+- 工具: PyTorch, OpenCV, OpenDDS, Git, Vim, ROS, LATEX
 
-# 💻 Open Source Projects
+# 💻 开源项目
 
 - [Vision-based-Intelligent-Robot-Arm-Game](https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game)
 - [Intelligent-aircraft-battle-game-sb3-jsbsim-flightgear](https://github.com/AI4IS/intelligent-aircraft-battle-game-sb3-jsbsim-flightgear)
@@ -199,7 +199,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 - [Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning](https://github.com/AI4IS/Multi-Dimensional-Decision-Making-for-UAV-Air-Combat-Based-on-Hierarchical-Reinforcement-Learning)
 - [Stablebaselines3_quad_s2r](https://github.com/AI4IS/stablebaselines3_quad_s2r)
 
-# 🖼 Research gallery
+# 🖼 研究画廊
 
 <table border="0">
     <tr>
