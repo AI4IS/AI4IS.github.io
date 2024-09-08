@@ -124,7 +124,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (<p style="color:red">Spotlight article</p>, co-correspondence author, SCI JCR Q1) DOI: 10.1016/j.cja.2024.09.006</td>
+            (**Spotlight article**, co-correspondence author, SCI JCR Q1) DOI: 10.1016/j.cja.2024.09.006</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td> -->
