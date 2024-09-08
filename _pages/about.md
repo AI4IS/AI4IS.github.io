@@ -22,7 +22,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
 
 - *2022.09 - Present*, Northwestern Polytechnic University, MPhil, Control Science and Engineering
   - Dissertation: To be determined
-  - Scholarship: To be determined
+  - Scholarship: To be determined (October)
 - *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65
   - Dissertation: Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning
   - Scholarship: Scholarship from the School of Electronic Information (twice)
@@ -71,6 +71,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
 Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master's grades](../assets/master grades.png)**.
 
 # 🔥 News
+- *2024.09*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, is rated as a spotlight article by Chinese Journal of Aeronautics.
 - *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - *2024.05*:  I'm going to open source a low-cost plan (400$) to build up an autonomous obstacle avoidance drone.
 - *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
@@ -104,6 +105,7 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
             <br>
             2024 IEEE International Conference on Control & Automation (ICCA).
             <br>
+            DOI: 10.1109/ICCA62789.2024.10591896
             </td>
     </tr>
     <tr>
@@ -171,7 +173,8 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 </table>
 
 # 🏅 Honors and Awards
-
+- *2024.08*, National Graduate Student Electronic Design Competition Northwestern Regional Second Prize, Team Award (Team Leader) 
+- *2023.12*, 2023 MathorCup University Mathematical Modeling Challenge (Big Data Competition) Third Prize, Team Award (Team Leader)
 - *2023.08*, National Graduate Student Electronic Design Competition Northwestern Regional First Prize, Team Award (Team Leader) 
 - *2023.08*, National Graduate Student Electronic Design Competition (Business Track) Northwestern Regional Third Prize, Team Award
 - *2022.07*, National College Students’ Innovation and Entrepreneurship Training Program Third Prize, Team Award (Team leader) 
