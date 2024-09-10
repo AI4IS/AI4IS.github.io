@@ -15,7 +15,7 @@ redirect_from:
 
 在学术生活之外，我是一名航空爱好者和极客。我于2000年6月5日出生在中国东北一个美丽的城市哈尔滨。
 
-您可以在[这里](../assets/Curriculum_Vitae.pdf)找到我的**简历**。
+您可以在[这里](../assets/Curriculum_Vitae_1.pdf)找到我的**简历**。
 **研究演示**在我的[YouTube 频道](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA)上展示。
 
 **我目前正在寻找适合我的博士职位。**
