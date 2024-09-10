@@ -73,6 +73,7 @@ redirect_from:
 请点击链接查找我完整的[学士成绩](../assets/Dinghan Wang_undergraduate transcripts.pdf)和[硕士学位成绩](../assets/master grades.png)。
 
 # 🔥 新闻
+- *2024.09*:  🎉🎉 我们的论文《ntelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework》被《航空学报英文版》评为亮点文章。
 - *2024.06*:  🎉🎉 我们的论文“An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning”已被IEEE Transactions on Aerospace and Electronic Systems接收。
 - *2024.05*:  我将开源一个低成本计划（2800 人民币）来构建自主避障无人机。
 - *2024.04*:  🎉🎉 我们的论文《ntelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework》已被《航空学报英文版》初步接收。
@@ -116,17 +117,17 @@ redirect_from:
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (Co-first author, SCI JCR Q1) DOI: 10.1016/j.cja.2024.03.009</td>
+            (共同第一作者, SCI JCR Q1) DOI: 10.1016/j.cja.2024.03.009</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td> -->
         <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang*</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
       			<br>
-<a href="../assets/cjap2.pdf">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
+<a href="https://doi.org/10.1016/j.cja.2024.09.006">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (Waiting online, co-correspondence author, SCI JCR Q1)</td>
+            (<b><font color="#FF0000">亮点文章</font></b>, 共同通讯作者, SCI JCR Q1) DOI: 10.1016/j.cja.2024.09.006</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td> -->
