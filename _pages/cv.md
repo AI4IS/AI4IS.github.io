@@ -70,7 +70,7 @@ redirect_from:
     </tr>
 </table>
 
-请点击链接查找我完整的[学士成绩](../assets/Dinghan Wang_undergraduate transcripts.pdf)和[硕士学位成绩](../assets/master grades.png)。
+请点击链接查找我完整的[学士成绩](../assets/Dinghan Wang_undergraduate transcripts.pdf), [硕士学位成绩](../assets/master grades.png)和[雅思成绩](../assets/IELTS score.jpg)。
 
 # 🔥 新闻
 - *2024.09*:  🎉🎉 我们的论文《ntelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework》被《航空学报英文版》评为亮点文章。
