@@ -68,7 +68,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
     </tr>
 </table>
 
-Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf) and [master's grades](../assets/master grades.png)**.
+Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf)， [master's grades](../assets/master grades.png) and [IELTS grade](../assets/IELTS score.jpg)**.
 
 # 🔥 News
 - *2024.09*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, is rated as a spotlight article by Chinese Journal of Aeronautics.
