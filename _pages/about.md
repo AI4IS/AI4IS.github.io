@@ -148,6 +148,16 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
             <br>
             (SCI JCR Q1) DOI: 10.1109/JSEN.2024.3394883</td>
     </tr>
+  <tr>
+<!--     	<td align="right" width="50%"><img src="../assets/sj2.png" width="100%"></td> -->
+        <td width="50%">Zhuoyong Shi, Jiandong Zhang, Guoqing Shi, Longmeng Ji, <b>Dinghan Wang</b>, Yong Wu. 
+      			<br>
+<a href="https://doi.org/10.3390/drones8060255">Design of a UAV Trajectory Prediction System Based on Multi-Flight Modes[J].</a> 
+            <br>
+            Drones.
+            <br>
+            (SCI JCR Q1) DOI: 10.3390/drones8060255</td>
+    </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/iccsi.png" width="100%"></td> -->
         <td width="50%">Zhuoyong Shi, Liuming Yang, Yong Wu, <b>Dinghan Wang</b>, JianDong Zhang, Anli Zhang. 
