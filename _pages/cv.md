@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人简历"
+title: "自我介绍、联系与优势"
 permalink: /cv_zh/
 author_profile: true
 redirect_from:
