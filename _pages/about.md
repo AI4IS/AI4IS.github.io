@@ -13,7 +13,7 @@ redirect_from:
 
 Outside of my academic life, I am an aviation enthusiast and geek. I was born in June 5th, 2000 in Harbin, a beautiful city in the northeast of China. 
 
-You can find my **CV [here](../assets/Curriculum_Vitae_1.pdf)**.
+You can find my **CV [here](../assets/cv_latest_dinghan.pdf)**.
 You can also find introduction PPT about myself **[here](../assets/ppt.pdf)**.
 Research demonstrations are shown on my **[YouTube channel](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA)**.
 
@@ -196,12 +196,12 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
 
 # 🔧 Skills
 
-- Languages: Python, C, C++
+- Languages: Python, C, C++, Matlab
 - Frontend: HTML, CSS, JavaScript
 - Clouds & Databases: MySQL, Tencent Cloud, Ali Cloud, Azure Cloud
 - Web Technologies: Docker, NAT(v4&v6), Nginx, HTTP, SSL
 - Operating Systems: Windows, Debian, Ubuntu, MacOS, OpenWRT, Proxmox VE
-- Tools: PyTorch, OpenCV, OpenDDS, Git, Vim, ROS, LATEX
+- Tools: PyTorch, OpenCV, OpenDDS, Git, Vim, ROS, LATEX, Ps, Pr ...
 
 # 💻 Open Source Projects
 
