@@ -34,7 +34,6 @@ redirect_from:
 | 胡劲文 | 西北工业大学自动化学院   | 共同发表ICCA会议一篇    |
 | 李晓聪 | A*STAR SIMTech           | A*STAR SINGA奖学金 主管 |
 
-意向导师 NTU 谢立华 院士
 
 # 2. 自身优势
 
