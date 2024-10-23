@@ -121,13 +121,13 @@ Please click links to find my **complete [bachelor's grades](../assets/Dinghan W
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/1a.png" width="100%"></td> -->
-        <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang*</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
+        <td width="50%">Xiaoyang Li, Teng Wang*, <b>Dinghan Wang</b>, Hairuo Zhang, Ying Zhou, Deyun Zhou. 
       			<br>
 <a href="https://doi.org/10.1016/j.cja.2024.09.006">Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework[J].</a> 
             <br>
             Chinese Journal of Aeronautics.
             <br>
-            (<b><font color="#FF0000">Spotlight article</font></b>, co-correspondence author, SCI JCR Q1) DOI: 10.1016/j.cja.2024.09.006</td>
+            (<b><font color="#FF0000"><a href="https://mp.weixin.qq.com/s/xWaFRLq1Nm5gwtPwgBVn3Q">Spotlight article</a></font></b>, co-correspondence author, SCI JCR Q1) DOI: 10.1016/j.cja.2024.09.006</td>
     </tr>
     <tr>
 <!--     	  <td align="right" width="50%"><img src="../assets/sj1.png" width="100%"></td> -->
