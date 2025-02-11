@@ -71,19 +71,9 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
 
 Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf)， [master's grades](../assets/master grades.png) and [IELTS grade](../assets/IELTS score.jpg)**.
 
-# 🔥 News
-- *2024.09*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, is rated as a spotlight article by Chinese Journal of Aeronautics.
-- *2024.06*:  🎉🎉 Our manuscript, “An Autonomous Attack Decision-Making Method Based on Hierarchical Virtual Bayesian Reinforcement Learning” has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
-- *2024.05*:  I'm going to open source a low-cost plan (400$) to build up an autonomous obstacle avoidance drone.
-- *2024.04*:  🎉🎉 Our manuscript, “Intelligent Decision-Making Algorithm for Airborne Phased Array Radar Search Tasks Based on a Hierarchical Strategy Framework”, has been initially accepted by Chinese Journal of Aeronautics.
-- *2024.04*:  🎉🎉 Our manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been initially accepted by IEEE Sensors Journal.
-- *2024.04*:  🎉🎉 Our conference, “Dogfight Advantage Occupancy Method Based on Imperfect Information Self-play”, has been accepted by IEEE ICCA. Looking forward to sharing our results in Iceland in June.
-- *2024.03*:  🎉🎉 Our manuscript, “Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach”, has been totally accepted by Chinese Journal of Aeronautics and you can find it online.
-- *2024.01*:  🎉🎉 Our manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been published by IEEE Sensors Journal.
-- *2023.11*:  🎉🎉 It is a pleasure to be a reviewer of IEEE Sensors Journal.
-- *2023.10*:  🎉🎉 Our conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been published by IEEE ICCSI.
-- *2023.09*:  🎉🎉 Our conference, “Autonomous Security Evaluation Model for UAV Based on Airborne Information”, has been published by IEEE ICICSP.
-- *2023.07*:  🎉🎉 I get First Prize of Northwest Region of Graduate Student Electronic Design Competition (team leader).
+# 🔥 Paper Review
+- IEEE Sensors Journal reviewer.
+- IJCNN reviewer.
 
 # 📝 Publications
 
