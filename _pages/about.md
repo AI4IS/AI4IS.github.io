@@ -14,7 +14,6 @@ redirect_from:
 Outside of my academic life, I am an aviation enthusiast and geek. I was born in June 5th, 2000 in Harbin, a beautiful city in the northeast of China. 
 
 You can find my **CV [here](../assets/cv_latest_dinghan.pdf)**.
-You can also find introduction PPT about myself **[here](../assets/ppt.pdf)**.
 Research demonstrations are shown on my **[YouTube channel](https://www.youtube.com/channel/UCJMRNVZrN_c_avI2IKq3GjA)**.
 
 **I am currently finding a PhD position suitable for me.**
@@ -22,7 +21,7 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
 # 🎓 Education
 
 - *2022.09 - Present*, Northwestern Polytechnic University, MPhil, Control Science and Engineering
-  - Dissertation: To be determined
+  - Dissertation: Formation Coordination Control and Confrontation based on Reinforcement Learning
   - Scholarship: **[National Scholarship](../assets/national scholarship.jpg)**, top 1.5%
 - *2018.09 - 2022.06*, Northwestern Polytechnic University, Bachelor, Detection guidance and control technology, 10th/65
   - Dissertation: Research on UAV Air Combat Decision-making Based on Hierarchical Reinforcement Learning
