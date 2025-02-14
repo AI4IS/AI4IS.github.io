@@ -71,8 +71,9 @@ Research demonstrations are shown on my **[YouTube channel](https://www.youtube.
 Please click links to find my **complete [bachelor's grades](../assets/Dinghan Wang_undergraduate transcripts.pdf)， [master's grades](../assets/master grades.png) and [IELTS grade](../assets/IELTS score.jpg)**.
 
 # 🔥 Paper Review
+- IEEE Transactions on Aerospace and Electronic Systems reviewer.
 - IEEE Sensors Journal reviewer.
-- IJCNN reviewer.
+- IJCNN 2025 reviewer.
 
 # 📝 Publications
 
