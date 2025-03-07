@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dian Wan / Personal Homepage"
+title                    : "Dinghan Wang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Dian Wan"
-description              : &description "Dian Wan is a current master's student from Northwestern Polytechnical University"
+name                     : &name "Dinghan Wang"
+description              : &description "Dinghan Wang is a current master's student from Northwestern Polytechnical University"
 url                      : https://ai4is.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ai4is/ai4is.github.io"
@@ -21,8 +21,8 @@ repository               : "ai4is/ai4is.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wan.png"
-  name             : "Dian Wan"
+  avatar           : "wang.png"
+  name             : "Dinghan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Northwestern Polytechnical University"
   location         : "Xian, Shaanxi, China"
